@@ -1,0 +1,4 @@
+1year=5.7
+2years=6.7
+minAge=17
+maxAge=25
